@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mod-lab08-server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d274423784e31f79fc50d48bf649d7e4d4fe07b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+626e763ddca97fdc4f9e3c6b7fe322782ff68ce0")]
 [assembly: System.Reflection.AssemblyProductAttribute("mod-lab08-server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mod-lab08-server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
